@@ -1,10 +1,10 @@
-# DSA-LeetCode
+# 🚀 DSA-LeetCode
 
 A collection of my LeetCode solutions implemented in **Java**, covering various **Data Structures and Algorithms (DSA)** topics. This repository serves as a record of my problem-solving journey and preparation for coding interviews and software engineering roles.
 
 ---
 
-## 🚀 About
+## 📌 About
 
 This repository contains solutions to LeetCode problems that I solve regularly to strengthen my understanding of:
 
