@@ -15,7 +15,7 @@ package Arrays;
 // Time Complexity: O(n²)
 // Space Complexity: O(1)
 
-class Solution {
+public class MatrixDiagonalSum1572 {
     public int diagonalSum(int[][] mat) {
         int sum = 0;
         for(int i=0; i<mat.length; i++) {

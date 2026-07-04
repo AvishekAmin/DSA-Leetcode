@@ -18,7 +18,7 @@ package Arrays;
 // Time Complexity: O(n²)
 // Space Complexity: O(n²)
 
-class Solution {
+public class SpiralMatrixII59 {
     public int[][] generateMatrix(int n) {
 
         int[][] matrix = new int[n][n];

@@ -15,7 +15,7 @@ package Arrays;
 // Time Complexity: O(n)
 // Space Complexity: O(n)
 
-class Solution {
+public class TrappingRainWater42 {
     public int trap(int[] height) {
         int n = height.length;
 

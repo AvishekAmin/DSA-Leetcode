@@ -19,7 +19,7 @@ package ArrayList;
 
 import java.util.*;
 
-class Solution {
+public class SpiralMatrix54 {
     public List<Integer> spiralOrder(int[][] matrix) {
         List<Integer> ans = new ArrayList<>();
 

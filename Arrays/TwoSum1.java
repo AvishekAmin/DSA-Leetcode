@@ -10,7 +10,7 @@ package Arrays;
 // Time Complexity: O(n²)
 // Space Complexity: O(1)
 
-class Solution {
+public class TwoSum1 {
     public int[] twoSum(int[] nums, int target) {
         for(int i = 0; i < nums.length; i++) {
             int searchNum = target - nums[i];

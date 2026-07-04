@@ -14,7 +14,7 @@ package Arrays;
 // Time Complexity: O(m × n)
 // Space Complexity: O(m × n)
 
-class Solution {
+public class TransposeMatrix867 {
     public int[][] transpose(int[][] matrix) {
         int row = matrix.length;
         int col = matrix[0].length;

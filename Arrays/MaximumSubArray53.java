@@ -13,7 +13,7 @@ package Arrays;
 // Time Complexity: O(n)
 // Space Complexity: O(1)
 
-class Solution {
+public class MaximumSubArray53 {
     public int maxSubArray(int[] nums) {
         int currSum = 0;
         int maxSum = Integer.MIN_VALUE;

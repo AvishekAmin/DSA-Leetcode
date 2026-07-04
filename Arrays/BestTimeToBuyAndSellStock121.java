@@ -12,7 +12,7 @@ package Arrays;
 // Time Complexity: O(n)
 // Space Complexity: O(1)
 
-class Solution {
+public class BestTimeToBuyAndSellStock121 {
     public int maxProfit(int[] prices) {
         int buyPrice = Integer.MAX_VALUE;
         int maxProfit = 0;

@@ -11,7 +11,7 @@ package Arrays;
 // Time Complexity: O(n²)
 // Space Complexity: O(1)
 
-class Solution {
+public class ContainsDuplicate217 {
     public boolean containsDuplicate(int[] nums) {
         for(int i = 0; i < nums.length; i++) {
             for(int j = i + 1; j < nums.length; j++) {
